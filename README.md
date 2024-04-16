@@ -1,1 +1,1 @@
-# BoB Names
+# BoB Namespace
