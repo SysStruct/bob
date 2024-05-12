@@ -13,11 +13,11 @@
    y="0px"
    viewBox="0 0 829.42273 366.66797"
    xml:space="preserve"
-   sodipodi:docname="revenue_stake.svg"
+   sodipodi:docname="revenue_temper.svg"
    inkscape:version="1.0.2 (e86c8708, 2021-01-15)"
    width="829.42273"
    height="366.66797"
-   inkscape:export-filename="/Users/sshmatrix/Idee/sysstruct/bob/resources/graphics/png/revenue_staked.png"
+   inkscape:export-filename="/Users/sshmatrix/Idee/sysstruct/bob/resources/graphics/png/revenue_temper.png"
    inkscape:export-xdpi="150"
    inkscape:export-ydpi="150"><metadata
    id="metadata866"><rdf:RDF><cc:Work
@@ -85,11 +85,11 @@
    inkscape:window-height="799"
    id="namedview862"
    showgrid="false"
-   inkscape:zoom="0.50037416"
-   inkscape:cx="350.72133"
-   inkscape:cy="324.56268"
-   inkscape:window-x="0"
-   inkscape:window-y="37"
+   inkscape:zoom="0.78172016"
+   inkscape:cx="371.54678"
+   inkscape:cy="321.00419"
+   inkscape:window-x="132"
+   inkscape:window-y="71"
    inkscape:window-maximized="0"
    inkscape:current-layer="Layer_1"
    inkscape:document-rotation="0"
@@ -106,7 +106,7 @@
 </style>
 <path
    style="fill:none;stroke:#008eff;stroke-width:2.8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-   d="M 19.420151,330.34043 74.776064,270.07532 144.11172,110.06997 174.77942,11.4 h 26.66755 l 60.00201,92.00307 125.45512,90.8713 139.9543,37.32618 h 133.2706 74.66917 49.33499 17.33391"
+   d="m 19.420151,330.34043 55.355913,-98.73988 h 69.335656 30.6677 26.66755 60.00201 125.45512 139.9543 133.2706 74.66917 49.33499 17.33391"
    id="path1378-4"
    sodipodi:nodetypes="cccccccccccc" /><path
    style="fill:none;stroke:#ff8600;stroke-width:2.8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -152,14 +152,14 @@
      id="tspan1354" /></text><text
    xml:space="preserve"
    style="font-size:19.9903px;line-height:1.25;font-family:Palatino;-inkscape-font-specification:Palatino;font-variant-ligatures:none;text-align:center;letter-spacing:-1.12446px;text-anchor:middle;fill:#008eff;fill-opacity:1;stroke:#008eff;stroke-width:0.374819;stroke-opacity:1"
-   x="342.87091"
-   y="-94.817627"
+   x="265.55252"
+   y="217.81859"
    id="text1314-3"
-   transform="rotate(37.9526)"><tspan
+   transform="rotate(0.64201094)"><tspan
      sodipodi:role="line"
      id="tspan1312-3"
-     x="342.30869"
-     y="-94.817627"
+     x="264.9903"
+     y="217.81859"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'OCR A Std';-inkscape-font-specification:'OCR A Std';fill:#008eff;fill-opacity:1;stroke:#008eff;stroke-width:0.374819;stroke-opacity:1">Registrations</tspan></text><text
    xml:space="preserve"
    style="font-size:19.9903px;line-height:1.25;font-family:Palatino;-inkscape-font-specification:Palatino;font-variant-ligatures:none;text-align:center;letter-spacing:-1.12446px;text-anchor:middle;mix-blend-mode:darken;fill:#ff8600;fill-opacity:1;stroke:#ff8600;stroke-width:0.374819;stroke-opacity:1"
