@@ -73,7 +73,7 @@
 	
 	
 </defs><sodipodi:namedview
-   pagecolor="#000000"
+   pagecolor="#ffffff"
    bordercolor="#666666"
    borderopacity="1"
    objecttolerance="10"
@@ -85,7 +85,7 @@
    inkscape:window-height="799"
    id="namedview862"
    showgrid="false"
-   inkscape:zoom="0.66676269"
+   inkscape:zoom="0.55993823"
    inkscape:cx="482.46355"
    inkscape:cy="108.9991"
    inkscape:window-x="0"
@@ -120,7 +120,7 @@
    id="text990"
    style="font-size:53.33330000000000126px;line-height:1.25;font-family:Palatino;-inkscape-font-specification:Palatino;font-variant-ligatures:none;text-align:center;letter-spacing:-1.38999999999999990px;white-space:pre;shape-inside:url(#rect992);"
    transform="translate(-326.79537,-230.23526)" /><path
-   style="fill:none;stroke:#ffffff;stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:4.80000007,4.80000007;stroke-opacity:1;stroke-dashoffset:0"
+   style="fill:none;stroke:#000000;stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:4.80000007, 4.80000007000000029;stroke-opacity:1;stroke-dashoffset:0"
    d="M 17.878893,15.514967 V 331.72756 H 818.01199"
    id="path33"
    sodipodi:nodetypes="ccc" /><text
@@ -136,7 +136,7 @@
      y="-0.77535033"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'OCR A Std';-inkscape-font-specification:'OCR A Std';stroke-width:0.374819" /></text><text
    xml:space="preserve"
-   style="font-size:19.99030000000000129px;line-height:1.25;font-family:Palatino;-inkscape-font-specification:Palatino;font-variant-ligatures:none;text-align:center;letter-spacing:-1.12446000000000002px;text-anchor:middle;stroke-width:0.374819;stroke:#ffffff;stroke-opacity:1;fill:#ffffff;fill-opacity:1;"
+   style="font-size:19.99030000000000129px;line-height:1.25;font-family:Palatino;-inkscape-font-specification:Palatino;font-variant-ligatures:none;text-align:center;letter-spacing:-1.12446000000000002px;text-anchor:middle;stroke-width:0.374819;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1;"
    x="418.71252"
    y="356.66797"
    id="text1314-8"><tspan
@@ -144,11 +144,11 @@
      id="tspan1312-6"
      x="418.71252"
      y="356.66797"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'OCR A Std';-inkscape-font-specification:'OCR A Std';stroke-width:0.374819;stroke:#ffffff;stroke-opacity:1;fill:#ffffff;fill-opacity:1;">Time</tspan><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'OCR A Std';-inkscape-font-specification:'OCR A Std';stroke-width:0.374819;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1;">Time</tspan><tspan
      sodipodi:role="line"
      x="418.71252"
      y="381.65585"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'OCR A Std';-inkscape-font-specification:'OCR A Std';stroke-width:0.374819;stroke:#ffffff;stroke-opacity:1;fill:#ffffff;fill-opacity:1;"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'OCR A Std';-inkscape-font-specification:'OCR A Std';stroke-width:0.374819;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1;"
      id="tspan1354" /></text><text
    xml:space="preserve"
    style="font-size:19.9903px;line-height:1.25;font-family:Palatino;-inkscape-font-specification:Palatino;font-variant-ligatures:none;text-align:center;letter-spacing:-1.12446px;text-anchor:middle;fill:#008eff;fill-opacity:1;stroke:#008eff;stroke-width:0.374819;stroke-opacity:1"
@@ -173,22 +173,22 @@
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'OCR A Std';-inkscape-font-specification:'OCR A Std';fill:#ff8600;fill-opacity:1;stroke:#ff8600;stroke-width:0.374819;stroke-opacity:1"
      id="tspan1354-0">Renewals</tspan></text><text
    xml:space="preserve"
-   style="font-size:19.9903px;line-height:1.25;font-family:Palatino;-inkscape-font-specification:Palatino;font-variant-ligatures:none;text-align:center;letter-spacing:-1.12446px;text-anchor:middle;opacity:0.678457;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.374819;stroke-opacity:1"
+   style="font-size:19.99030000000000129px;line-height:1.25;font-family:Palatino;-inkscape-font-specification:Palatino;font-variant-ligatures:none;text-align:center;letter-spacing:-1.12446000000000002px;text-anchor:middle;opacity:1;fill:#8f8f8f;fill-opacity:1;stroke:#8f8f8f;stroke-width:0.374819;stroke-opacity:1;"
    x="133.59053"
    y="34.225689"
    id="text1314-8-0"><tspan
      sodipodi:role="line"
      x="133.02831"
      y="34.225689"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'OCR A Std';-inkscape-font-specification:'OCR A Std';fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.374819;stroke-opacity:1"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'OCR A Std';-inkscape-font-specification:'OCR A Std';fill:#8f8f8f;fill-opacity:1;stroke:#8f8f8f;stroke-width:0.374819;stroke-opacity:1;"
      id="tspan1354-05">Peak</tspan></text><text
    xml:space="preserve"
-   style="font-size:19.9903px;line-height:1.25;font-family:Palatino;-inkscape-font-specification:Palatino;font-variant-ligatures:none;text-align:center;letter-spacing:-1.12446px;text-anchor:middle;opacity:0.678457;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.374819;stroke-opacity:1"
+   style="font-size:19.99030000000000129px;line-height:1.25;font-family:Palatino;-inkscape-font-specification:Palatino;font-variant-ligatures:none;text-align:center;letter-spacing:-1.12446000000000002px;text-anchor:middle;opacity:1;fill:#8f8f8f;fill-opacity:1;stroke:#8f8f8f;stroke-width:0.374819;stroke-opacity:1;"
    x="678.99646"
    y="219.6694"
    id="text1314-8-0-6"><tspan
      sodipodi:role="line"
      x="678.4342"
      y="219.6694"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'OCR A Std';-inkscape-font-specification:'OCR A Std';fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.374819;stroke-opacity:1"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'OCR A Std';-inkscape-font-specification:'OCR A Std';fill:#8f8f8f;fill-opacity:1;stroke:#8f8f8f;stroke-width:0.374819;stroke-opacity:1;"
      id="tspan1354-05-9">Pleatue</tspan></text></svg>
